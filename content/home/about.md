@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: "About me "
+widget_id: Bio
 headless: true
 weight: 20
 title: ""
